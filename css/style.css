@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    height: 100px;
+    background-color:tomato;
+    color: white;
+    text-align: center;
+}
+.banner{
+    height: 500px;
+    background-color: brown;
+    text-align: center;
+    color: white;
+}
+.about_image{
+    height: 400px;
+    width: 50%;
+    background-color: aqua;
+    text-align: center;
+    color: black;
+}
+.about_content{
+    height: 400px;
+    width: 50%;
+    background-color: rgb(196, 99, 35);
+    text-align: center;
+    color: white;
+}
+.about{
+    display: flex;
+}
+.section_one{
+    width: 33.5%;
+    height: 400px;
+    background-color: antiquewhite;
+    text-align: center;
+    color: azure;
+}
+.section_two{
+    width: 33.5%;
+    height: 400px;
+    background-color: rgb(85, 21, 24);
+    text-align: center;
+    color: azure;
+} 
+.section_three{
+    width: 33.5%;
+    height: 400px;
+    background-color: rgb(45, 113, 129);
+    text-align: center;
+    color: azure; 
+}
+.section{
+    display: flex;
+}
+.works_one{
+    width: 25%;
+    height: 400px;
+    background-color: rgb(129, 25, 115);
+    text-align: center;
+    color: azure;   
+
+}
+.works_two{
+    width: 25%;
+    height: 400px;
+    background-color: rgb(158, 20, 61);
+    text-align: center;
+    color: azure; 
+}
+.works_three{
+    width: 25%;
+    height: 400px;
+    background-color: rgb(138, 116, 42);
+    text-align: center;
+    color: azure; 
+}
+.works_four{
+    width: 25%;
+    height: 400px;
+    background-color: rgb(32, 52, 145);
+    text-align: center;
+    color: azure; 
+}
+.work{
+    display: flex;
+}
+.footer{
+    height: 70px;
+    background-color: rgb(155, 33, 134);
+    text-align: center;
+    color: white;
+}
